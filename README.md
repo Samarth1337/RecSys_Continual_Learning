@@ -1,4 +1,4 @@
-# Adaptive-RecSys-using-Continual-Learning
+# RecSys-using-Continual-Learning
 
 ## Overview
 This project focuses on building a recommendation system that can predict the next product a user will interact with during their session. The primary challenge is adapting to new trends while retaining older consumer behavior. The project also tackles problems like concept drift and catastrophic forgetting in recommendation systems, aiming for improved prediction accuracy over time.
